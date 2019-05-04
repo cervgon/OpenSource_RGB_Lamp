@@ -1,8 +1,8 @@
 /*
-  OpenSource_RGB_Lamp
+  RRGGBB_Multicolor_Lamp
 
   created 2018
-  by Gonzalo Cervantes <https://github.com/cervgon/OpenSource_RGB_Lamp>
+  by Gonzalo Cervantes <https://github.com/cervgon/RRGGBB_Multicolor_Lamp>
 
   This example code is in the public domain.
 */
